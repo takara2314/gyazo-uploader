@@ -25,6 +25,12 @@ Gyazoに画像をアップロードし、その画像URLを受け取るプログ
 ![https://i.gyazo.com/096b1cd5bf7f6c5d38cb73051f829166.png](https://i.gyazo.com/096b1cd5bf7f6c5d38cb73051f829166.png)
 
 先ほど作ったアプリのアプリ名をクリックしましょう。
+ちなみにこの画面には
+
+[https://gyazo.com/oauth/applications](https://gyazo.com/oauth/applications)
+
+からアクセスできます。
+
 ![https://i.gyazo.com/fb3fafe28943d0a177ad15f393c21faa.png](https://i.gyazo.com/fb3fafe28943d0a177ad15f393c21faa.png)
 
 ``Your access token`` の ``Generate`` をクリックしてアクセストークンを生成しましょう。
